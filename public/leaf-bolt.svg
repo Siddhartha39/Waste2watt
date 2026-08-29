@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="46" fill="#090d16" stroke="#22c55e" stroke-width="4"/>
+  <path d="M50 15C32 28 26 50 34 72C42 66 50 56 54 44C58 56 66 66 74 72C82 50 76 28 50 15Z" fill="url(#grad-leaf)" opacity="0.9"/>
+  <path d="M52 24L38 52H52L46 76L64 46H50L56 24H52Z" fill="#fbbf24" stroke="#090d16" stroke-width="2"/>
+  <defs>
+    <linearGradient id="grad-leaf" x1="50" y1="15" x2="50" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4ade80"/>
+      <stop offset="1" stop-color="#166534"/>
+    </linearGradient>
+  </defs>
+</svg>
