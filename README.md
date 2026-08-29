@@ -54,16 +54,16 @@ Traditional municipal solid waste management treats organic waste as a disposal 
 
 ```mermaid
 graph TD
-    A[Stage 1: Citizen Waste Photo] --> B[Stage 2: AI Neural Classification]
-    B --> C[Stage 3: Spatial GPS Tagging]
-    C --> D[Stage 4: Dynamic TSP Route Solver]
-    D --> E[Stage 5: EV Collection & Weight Verification]
-    E --> F[Stage 6: Feedstock Segregation & Slurry Prep]
-    F --> G[Stage 7: Anaerobic Methanogenesis (UASB Reactor)]
-    G --> H[Stage 8: Biogas Storage (65% CH4)]
-    H --> I[Stage 9: Combined Heat & Power (CHP) Turbine]
-    I --> J[Stage 10: Clean Community Microgrid Electricity]
-    J --> K[Stage 11: Eco-Points Distributed to Citizens]
+    A["Stage 1: Citizen Waste Photo"] --> B["Stage 2: AI Neural Classification"]
+    B --> C["Stage 3: Spatial GPS Tagging"]
+    C --> D["Stage 4: Dynamic TSP Route Solver"]
+    D --> E["Stage 5: EV Collection & Weight Verification"]
+    E --> F["Stage 6: Feedstock Segregation & Slurry Prep"]
+    F --> G["Stage 7: Anaerobic Methanogenesis (UASB Reactor)"]
+    G --> H["Stage 8: Biogas Storage (65% CH4)"]
+    H --> I["Stage 9: Combined Heat & Power (CHP) Turbine"]
+    I --> J["Stage 10: Clean Community Microgrid Electricity"]
+    J --> K["Stage 11: Eco-Points Distributed to Citizens"]
     K --> A
 ```
 
